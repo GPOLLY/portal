@@ -3475,4 +3475,18 @@ change of the password
     font-weight: 300;
     transition: ease all 0.5s;
 }
-
+.click.bt {
+    width: 155px;
+    height: auto;
+    float: left;
+    background: green;
+    text-align: center;
+    color: yellow;
+    padding: 10px 25px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    transition: ease all 0.5s;
+    cursor: pointer;
+    font-weight: 300;
+}
